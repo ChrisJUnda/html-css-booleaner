@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+/*Sezione Header*/
 header{
     background-color: rgb(71, 71, 217);
     background-image: url(../img/pattern.png);
@@ -16,3 +16,52 @@ header{
     height: 50px;
     margin-top: 40px;
 }
+/*Fine Sezione Header*/
+
+/*Sezione main*/
+main{
+    margin-top: 20px;
+}
+
+/*Sezione Titolo*/
+h1{
+    font-size: 60px;
+}
+
+.autore{
+    color: grey;
+}
+
+.nome-autore{
+    color: rgb(71, 71, 217) ;
+}
+
+.data{
+    color: grey;
+    font-size: 12px;
+}
+/*Fine Sezione Titolo*/
+
+/*Sezione Foto*/
+
+.immagini{
+    margin-top: 20px;
+}
+
+.immagini .descrizione{
+    font-size: 12px;
+}
+/*Fine Sezione Foto*/
+
+/*Sezione Contenuto*/
+.contenuto{
+    margin: 20px 0;
+}
+.evidenziato{
+    background-color: yellow;
+}
+
+.contenuto ul{
+    margin: 20px;
+}
+/*Fine Sezione Contenuto*/
