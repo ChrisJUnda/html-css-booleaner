@@ -62,6 +62,26 @@ h1{
 }
 
 .contenuto ul{
-    margin: 20px;
+    margin:30px 20px;
 }
 /*Fine Sezione Contenuto*/
+/*Sezione Table*/
+table{
+    text-align: left;
+    border-collapse: collapse;
+}
+
+thead{
+    background-color: rgb(97, 97, 195);
+    color: white;
+}
+
+.dispari{
+    background-color: lightblue;
+}
+
+.testo{
+    width: 50%;
+}
+
+/*Fine Sezione Table*/
