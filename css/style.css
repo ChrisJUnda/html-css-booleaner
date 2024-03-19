@@ -54,7 +54,7 @@ h1{
 /*Fine Sezione Foto*/
 
 /*Sezione Contenuto*/
-.contenuto{
+.contenuto p{
     margin: 20px 0;
 }
 .evidenziato{
@@ -85,3 +85,4 @@ thead{
 }
 
 /*Fine Sezione Table*/
+/*Fine Main*/
